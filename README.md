@@ -1,4 +1,4 @@
-# Tic-Tac Toe
+# Tic Tac Toe
 Tic Tac Toe game in Vanilla JavaScript
 
 ## Screenshot
